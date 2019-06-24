@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Delivery Boy</string>
+    <string name="title_activity_location_map">Map</string>
+    <string name="Apikey">AIzaSyAY0YhKTcPMxP5_TwaClgCJnwyz8eAKJNc
+</string>
+    <string name="API_KEY">AIzaSyDGBGGyhifqVFwMxIM0wxUIIWzMbku2_o4</string>
+    <string name="title_activity_path_location">Map</string>
+</resources>
